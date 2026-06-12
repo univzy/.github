@@ -11,8 +11,8 @@
 We create maintainable products, collaborate transparently, and help teams launch faster with high-quality engineering.
 
 <p>
-	<img src="https://komarev.com/ghpvc/?username=TobyG74&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-	<img src="https://img.shields.io/github/followers/TobyG74?label=Followers&style=social" alt="GitHub Followers" />
+	<img src="https://komarev.com/ghpvc/?username=univzy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+	<img src="https://img.shields.io/github/followers/univzy?label=Followers&style=social" alt="GitHub Followers" />
 	<img src="https://img.shields.io/badge/Open%20Source-Active-16A34A?style=flat&logo=github&logoColor=FFFFFF" alt="Open Source Active" />
 	<img src="https://img.shields.io/badge/Available%20for-Client%20Projects-2563EB?style=flat&logo=rocket&logoColor=FFFFFF" alt="Available for Client Projects" />
 </p>
